@@ -37,7 +37,7 @@ This project was created as part of my learning journey in:
 
 ---
 ## Preview
-(Add a screenshot of your website here later)
+Live website: https://abdulfarouqmusedde-cloud.github.io/my-website
 
 ---
 ## Future Improvements
