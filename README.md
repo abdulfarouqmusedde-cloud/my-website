@@ -5,7 +5,7 @@ It showcases my skills, projects, and contact information.
 
 ---
 ##  Live Demo 
-https://yourusername.github.io/my-website
+https://abdulfarouqmusedde.github.io/my-website
 
 ---
 ##  Features
